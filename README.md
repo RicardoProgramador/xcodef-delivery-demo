@@ -1,7 +1,8 @@
-# xcodef-delivery — demonstração pública
+# Central de Pedidos — demonstração
 
-Simulação interativa da Central de Pedidos (dados 100% fictícios; nada conecta em plataforma nenhuma).
+Este endereço hospeda a demonstração da Central de Pedidos (xcodef).
 
-**Abrir:** https://ricardoprogramador.github.io/xcodef-delivery-demo
+O acesso é **fechado por chave de licença**: sem a chave, a página não mostra nada.
+O endereço público antigo (a raiz) foi aposentado e exibe apenas um aviso.
 
-Atualizada automaticamente a cada versão nova do sistema.
+Quem precisa acompanhar o projeto recebe o endereço e a chave direto de quem cuida dele.
